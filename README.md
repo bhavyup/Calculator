@@ -15,13 +15,10 @@
 
 ## 📸 Screenshots
 
-### 🖥 Desktop View
+### <a href="https://github.com/user-attachments/assets/85c94da5-1e34-4482-a473-ef14e91c651a">🖥 Desktop View</a>
 
-![Calculator Desktop Screenshot](https://raw.githubusercontent.com/bhavyup/Calculator/main/screenshots/desktop.png)
+### <a href="https://github.com/user-attachments/assets/78633508-02ad-4660-8da7-fbba9399bc2f">📱 Mobile View</a>
 
-### 📱 Mobile View
-
-![Calculator Mobile Screenshot](https://raw.githubusercontent.com/bhavyup/Calculator/main/screenshots/mobile.png)
 
 ---
 
